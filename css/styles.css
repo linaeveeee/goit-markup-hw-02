@@ -30,7 +30,7 @@ body {
 .section-title {
   color: var(--navyblue);
   text-align: center;
-  /font-size: 36px;
+  font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -41,10 +41,10 @@ body {
 
 .header-logo {
   color: var(--iris);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -66,7 +66,7 @@ body {
   color: var(--ocean);
 }
 
-.header-adress {
+.header-address {
   font-style: normal;
 }
 
